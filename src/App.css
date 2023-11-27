@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.f-16{
+  font-size: 16px;
+}
+
+.p-10{
+  padding: 5px 10px;
+}
+
+.flex-sb{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.color-grey{
+  color: gray;
+}
+
+
+.flex-gap-10{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.relative{
+  position: relative;
+}
